@@ -15,4 +15,7 @@ Under development. (this module cannot be used yet).
   
 *Quickstart* :  
 Basically this is only a type handler, see core library [fj-doc-base](https://github.com/fugerit-org/fj-doc.git).  
-NOTE: If you have any special need you can open a pull request or create your own handler based on this.
+NOTE: If you have any special need you can open a pull request or create your own handler based on this.  
+
+
+See [CHANGELOG.md](CHANGELOG.md) for details.

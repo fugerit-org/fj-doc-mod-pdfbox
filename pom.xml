@@ -7,13 +7,13 @@
 	<parent>
 		<groupId>org.fugerit.java</groupId>
 		<artifactId>fj-doc</artifactId>
-		<version>0.5-RC2</version>
+		<version>1.1.0-rc.001</version>
 		<relativePath></relativePath>
 	</parent>
 
 	<name>fj-doc-mod-pdfbox</name>
 	<description>Fugerit Doc Venus rendered for PDF based on PDFBOX</description>
-	<version>0.4.2-sa</version>
+	<version>0.5.0-rc.001</version>
 
 	<licenses>
 		<license>
@@ -25,7 +25,7 @@
 
 	<properties>
 		<fj-doc-version>${project.parent.version}</fj-doc-version>	
-		<pdfbox-version>2.0.27</pdfbox-version>
+		<pdfbox-version>2.0.29</pdfbox-version>
 	</properties>
 	
 	<build>
